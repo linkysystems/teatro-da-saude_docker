@@ -8,16 +8,6 @@
 docker-compose exec api bash
 ```
 
-### Add submodule:
-
-```sh
-git submodule add git@github.com:saudeemeulugar/site.git server/site
-```
-
-```sh
-git submodule add git@github.com:saudeemeulugar/admin.git client/admin
-```
-
 ## On clone:
 
 ```sh
