@@ -1,0 +1,8 @@
+[submodule "server/site"]
+	path = server/site
+	url = git@github.com:linkysystems/teatro-da-saude.git
+  branch = master
+[submodule "client/admin"]
+	path = client/admin
+	url = git@github.com:linkysystems/teatro-da-saude_docker.git
+  branch = master
